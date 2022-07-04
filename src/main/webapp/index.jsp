@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>2010</td>
-      <td>Researcher at The Institute of Cognitive Neuroscience</td>
+      <td>AWS and Devops engineer</td>
     </tr>
     </tbody>
   </table>
