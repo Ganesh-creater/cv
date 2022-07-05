@@ -36,7 +36,7 @@
     <tbody>
       <tr>
         <td>2010-2013</th>
-        <td>Lead Developer at Tempo App</th>
+        <td>Lead Developer</th>
     </tr>
     <tr>
       <td>2010</td>
