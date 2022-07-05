@@ -40,7 +40,7 @@
     </tr>
     <tr>
       <td>2010</td>
-      <td>AWS and Devops engineer</td>
+      <td>AWS and Devops Engineer</td>
     </tr>
     </tbody>
   </table>
