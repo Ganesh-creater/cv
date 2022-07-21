@@ -15,7 +15,7 @@
     </tr>
   </table>
   <p>I am Ganesh working in accenture. I want to become a web developer after i complete this course in <strong><a href="https://www.udemy.com/">Udemy</a></strong>. Then Iam going to Start learn Blender.
-  Blender is the Design softwere which can create a beautiful environment. After i complete this two then I start to learn to create Android Apps and I also created a website cloudlnr </p>
+  Blender is the Design softwere which can create a beautiful environment. After i complete this two then I start to learn to create Android Apps. </p>
   <hr>
   <h3>Bookes and Teaching</h3>
   <ul>
