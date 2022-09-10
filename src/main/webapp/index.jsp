@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Ganesh's Personal Site</title>
+  <title>Ganesh's Personal WebSite</title>
 </head>
 
 <body>
