@@ -29,7 +29,7 @@
   <table cellspacing="10">
     <thead>
         <tr>
-          <th>Date</th>
+          <th>Data</th>
           <th>Work</th>
         </tr>
     </thead>
